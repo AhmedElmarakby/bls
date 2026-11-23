@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">دفتر ملاحظة وتكوين</title>
+  <desc id="desc">رسم هندسي تجريدي على صفحة ورقية: قوس ودائرة وخطوط بناء وآثار قلم.</desc>
+  <rect x="74" y="48" width="612" height="464" rx="2" fill="#f3ecdd"/>
+  <path class="studio-grid" d="M110 116H650M110 176H650M110 236H650M110 296H650M110 356H650M110 416H650M170 82V476M230 82V476M290 82V476M350 82V476M410 82V476M470 82V476M530 82V476M590 82V476" stroke="#9a8d78" stroke-opacity=".23" stroke-width="1"/>
+  <path class="stroke-draw" d="M192 406V268c0-89 58-151 142-151s142 62 142 151v138" stroke="#152638" stroke-width="5" stroke-linecap="round"/>
+  <path class="stroke-draw stroke-draw--gold" d="M183 407H486M227 420H530" stroke="#a47d41" stroke-width="2" stroke-linecap="round"/>
+  <circle class="stroke-draw" cx="334" cy="261" r="83" stroke="#a47d41" stroke-width="3"/>
+  <path class="stroke-draw" d="M334 178V344M251 261H417M277 202l114 118M391 202 277 320" stroke="#152638" stroke-opacity=".74" stroke-width="2"/>
+  <path class="stroke-draw stroke-draw--gold" d="M198 372c38-23 64-18 88 4s49 28 75 7 45-39 70-27 43 18 66 3" stroke="#a47d41" stroke-width="4" stroke-linecap="round"/>
+  <path d="M532 136h74M570 99v74M520 446h86M563 425v42" stroke="#152638" stroke-opacity=".65" stroke-width="1.5"/>
+  <circle cx="570" cy="136" r="5" fill="#a47d41"/><circle cx="563" cy="446" r="4" fill="#a47d41"/>
+  <path d="M112 92h24M124 80v24M642 480h18" stroke="#a47d41" stroke-width="2"/>
+</svg>
